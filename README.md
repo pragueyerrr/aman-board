@@ -1,8 +1,6 @@
 # Aman's Board
 
-A personal job tracker built for my friend Aman, a creative professional looking for marketing and creative roles in Dubai.
-
----
+I built this for my friend Aman because job hunting is miserable and he deserved better.
 
 ## What is this?
 
@@ -29,4 +27,4 @@ Next.js 15 · Supabase · Upstash Redis · Claude API (Anthropic) · Tailwind CS
 
 ## Built with
 
-This was built with **[Claude Code](https://claude.ai/claude-code)** — Anthropic's AI coding tool. Most of the code was written through a conversation, not typed by hand.
+This was built with **[Claude Code](https://claude.ai/claude-code)** — Anthropic's AI coding tool. Most of the code was written through a conversation, not typed by hand. I have no software engineering background — just an idea and a friend who needed help and a lot of love in my heart that needs somewhere practical to go. 
